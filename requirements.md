@@ -36,21 +36,31 @@
 
 ## Deadline
 18/3/2024 -> 31/3/2024
-**Đề xuất chia thành 4 giai đoạn**
-Giai đoạn 1:
-* Cài đặt linux hoặc ubuntu hoặc chạy máy ảo 
-    * Deadline dự kiến: **hết 23/3/2024**
-* Cài đặt PS1 và thiết lập user thành mã số sinh viên:
-  * Deadline dự kiến: **hết 23/3/2024**
+**Đề xuất chia thành 3 giai đoạn**
+Giai đoạn 1 (Tất cả cùng làm):
+* Tạo Overleaf để viết report cho cả team
+* Cài đặt được hadoop chế độ standalone
+
+**-> Dealine: Hết chủ nhật 24/3/2024**
+### Meeting 20h chủ nhật 24/3/2024 -> triển khai giai đoạn 2
 Giai đoạn 2 (vừa làm vừa viết report):
 * Cài đặt máy thành SNC  + đọc paper và trả lời các câu hỏi ở phần 2 (làm song song + trả lời câu hỏi thì) 
-  * Deadline dự kiến: **hết 26/3/2024**
-
+  * Deadline dự kiến: **hết 27/3/2024**
+  * Người làm: **cả team**
+  * Output: **Mỗi người 1 file .txt trả lời câu hỏi**
+* Tổng hợp viết vào Overleaf đã tạo:
+  * Deadline dự kiến: **hết 28/3/2024**
+  * Người làm: **cả team**
+  * Output: **1 file .pdf**
+### Meeting 13h 27/3/2024 -> báo cáo giai đoạn 2 + triển khai giai đoạn 3
 Giai đoạn 3 (chia ra làm + viết report):
 * Code chương trình word count + chạy thử:
   * Deadline: **hết 29/3/2024**
+  * Người làm: ***Trung, Kỳ Thanh***
 * Bonus làm phần 1 của bonus: 
-  * Deadline **hết 29/3/2024**
+  * Deadline: **hết 29/3/2024**
+  * Người làm: ***Triết, Hưng***
 * Bonus làm phần 2 của bonus:
   * Dealine **hết 30/3/2024**
+  * Người làm: **Cả team**
 
