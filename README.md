@@ -1,5 +1,5 @@
-# Lab1 Introduction to Big Data HCMUS
-
+# Course: Introduction to Big Data HCMUS
+# Lab1
 ## Members
 
 - 21120011 - Võ Hoàng Hưng
